@@ -1,11 +1,13 @@
 about:
-  description: jb: write script in an easier way than bash
+  description:
+  |
+    jb: write script in an easier way than bash
   license: NOASSERTION
   homepage: https://www.txthinking.com
   head: d0e3ddc
   archived: true
   latestVersion: v20231203
-  collectedAt: 2026-09-04T04:29:16Z
+  collectedAt: 2026-09-04T19:31:34Z
 timeline:
   created: 2023-06-04
   lastCommit: 2023-12-04
@@ -36,10 +38,18 @@ language:
   Rust: 9539
   HTML: 2519
   AMPL: 112
-totalLine: 23070357
+totalBytes: 23070357
 recent:
   last30d:
     since: 2026-08-05
+    release: 0
+    mergedPR: 0
+    openPR: 0
+    closedIssue: 0
+    openIssue: 0
+    commit: 0
+  last60d:
+    since: 2026-07-06
     release: 0
     mergedPR: 0
     openPR: 0
@@ -70,3 +80,21 @@ recent:
     closedIssue: 0
     openIssue: 0
     commit: 0
+  last720d:
+    since: 2024-09-14
+    release: 0
+    mergedPR: 0
+    openPR: 0
+    closedIssue: 0
+    openIssue: 0
+    commit: 0
+total:
+  release: 7
+  mergedPR: 0
+  openPR: 0
+  closedIssue: 4
+  openIssue: 0
+  commit: 8199
+---
+---
+
