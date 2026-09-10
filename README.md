@@ -25,7 +25,16 @@ x install jb
 - **Latest**: `v20231203` (2023-12-03)
 - **Last commit**: 2023-12-04
 - **Assets in release**: 5
-- **Published**: 2023-12-03T15:08:06Z
+
+## Release assets
+
+| Asset | Size | Target |
+|-------|-----:|--------|
+| [jb_darwin_amd64](https://github.com/txthinking/jb/releases/download/v20231203/jb_darwin_amd64) | 49.1 MiB | `native/darwin/x64` |
+| [jb_darwin_arm64](https://github.com/txthinking/jb/releases/download/v20231203/jb_darwin_arm64) | 44.3 MiB | `native/darwin/arm64` |
+| [jb_linux_amd64](https://github.com/txthinking/jb/releases/download/v20231203/jb_linux_amd64) | 89.2 MiB | `native/linux/x64` |
+| [jb_linux_amd64-baseline](https://github.com/txthinking/jb/releases/download/v20231203/jb_linux_amd64-baseline) | 88.8 MiB | `native/linux/x64` |
+| [jb_linux_arm64](https://github.com/txthinking/jb/releases/download/v20231203/jb_linux_arm64) | 82.2 MiB | `native/linux/arm64` |
 
 ## Popularity
 
@@ -60,8 +69,8 @@ Total: **947,643** lines of code across **1919** files in the top 5 languages.
 Install metadata for jb lives in the [x-cmd/install](https://github.com/x-cmd/install) index — a curated YAML package list that x-cmd consumes at install time. If `jb` is missing, out of date, or installs incorrectly, please open an issue or PR there:
 
 - **Open an issue**: <https://github.com/x-cmd/install/issues/new>
-- **Edit the package entry**: <https://github.com/x-cmd/edit/main/jb.yml> (or whichever path the index uses)
+- **Edit the package entry**: <https://github.com/x-cmd/install/edit/main/jb.yml> (or whichever path the index uses)
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260910.yml` · 2026-09-10T03:40:22Z._
+_Snapshot: `data/card/260910.yml` · 2026-09-10T15:54:26Z._
